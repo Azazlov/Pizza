@@ -1,0 +1,26 @@
+.main {
+}
+
+.main__section {
+    display: flex;
+    border-radius: 12px;
+    backdrop-filter: blur(20px) contrast(40%);
+    width: 40%;
+    height: 200px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+.main__section-container {
+}
+
+.main__section-header {
+}
+
+.main__section-header-text {
+}
+
+.main__section-text {
+}
+.main__section-block {
+}
